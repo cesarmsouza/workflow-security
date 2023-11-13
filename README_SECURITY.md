@@ -1,6 +1,6 @@
 # Segurança na Pipeline
 
-Este documento descreve as práticas e ferramentas de segurança implementadas nesta pipeline para o projeto Flask RestPlus Server Example.
+Este documento descreve as práticas e ferramentas de segurança implementadas nesta pipeline para o projeto Flask RestPlus Server Example, com ferramentas OpenSource.
 
 ## Objetivo
 
